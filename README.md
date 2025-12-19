@@ -36,11 +36,3 @@ A classic **Snake Game** built using **UIKit** for iOS. The game recreates the r
 * Difficulty levels
 * Sound effects and haptic feedback
 * Dark mode support
-
----
-
-If you want, I can:
-
-* Make it **more beginner-friendly**
-* Add a **GIF/demo section**
-* Rewrite it to sound more **resume / portfolio oriented**
