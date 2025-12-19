@@ -2,6 +2,9 @@
 
 A classic **Snake Game** built using **UIKit** for iOS. The game recreates the retro snake experience with smooth controls, real-time movement, and increasing difficulty as the snake grows.
 
+![Simulator Screen Recording - iPhone 16 - 2025-12-19 at 22 55 57](https://github.com/user-attachments/assets/7a18631e-27ba-4921-946d-14fef2e53f7a)
+
+
 ## 🚀 Features
 
 * Built entirely using **UIKit**
